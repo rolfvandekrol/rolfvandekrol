@@ -3,7 +3,6 @@ core = 7.x
 description = Setup Rolf van de Krol.nl website
 
 ; Core
-dependencies[] = book
 dependencies[] = contact
 dependencies[] = dblog
 dependencies[] = field_ui
@@ -14,8 +13,6 @@ dependencies[] = taxonomy
 
 ; Contrib
 dependencies[] = admin
-dependencies[] = openid
-dependencies[] = openidadmin
 dependencies[] = context
 dependencies[] = context_ui
 dependencies[] = ctools
