@@ -25,7 +25,7 @@ projects[drupal][patch][903730] = http://drupal.org/files/issues/drupal.filter-a
 ; http://drupal.org/node/995156
 projects[drupal][patch][995156] = http://drupal.org/files/issues/995156-5_portable_taxonomy_permissions.patch
 
-projects[buildkit][type] = profile
-projects[buildkit][download][type] = git
-projects[buildkit][download][url] = git://github.com/rolfvandekrol/rolfvandekrol.git
-projects[buildkit][download][branch] = master
+projects[rolfvandekrol][type] = profile
+projects[rolfvandekrol][download][type] = git
+projects[rolfvandekrol][download][url] = git://github.com/rolfvandekrol/rolfvandekrol.git
+projects[rolfvandekrol][download][branch] = master
