@@ -39,7 +39,11 @@ projects[views][subdir] = contrib
 projects[views][version] = 3.0-alpha1
 
 projects[ds][subdir] = contrib
-projects[ds][version] = 1.0-alpha1
+projects[ds][download][type] = cvs
+projects[ds][download][module] = contributions/modules/ds
+projects[ds][download][revision] = DRUPAL-7--1
+
+
 
 ; Themes ======================================================================
 
