@@ -22,3 +22,8 @@ dependencies[] = features
 dependencies[] = strongarm
 dependencies[] = views
 dependencies[] = views_ui
+
+dependencies[] = ds
+dependencies[] = ds_search
+dependencies[] = ds_switch_vm
+dependencies[] = ds_vd
