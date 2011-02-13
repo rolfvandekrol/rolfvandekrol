@@ -1,0 +1,6 @@
+core = "7.x"
+dependencies[] = "features"
+features[user_permission][] = "access content"
+features[user_role][] = "editor"
+name = "rvdk_content"
+package = "Features"
