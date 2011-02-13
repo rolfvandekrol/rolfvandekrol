@@ -38,6 +38,9 @@ projects[strongarm][version] = 2.0-beta2
 projects[views][subdir] = contrib
 projects[views][version] = 3.0-alpha1
 
+projects[ds][subdir] = contrib
+projects[ds][version] = 1.0-alpha1
+
 ; Themes ======================================================================
 
 projects[tao][version] = 3.0-beta3
