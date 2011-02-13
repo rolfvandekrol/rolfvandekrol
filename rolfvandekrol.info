@@ -26,4 +26,4 @@ dependencies[] = views_ui
 dependencies[] = ds
 dependencies[] = ds_search
 dependencies[] = ds_vd
-dependencies[] = ds_extra
+dependencies[] = ds_extras
